@@ -1,9 +1,9 @@
 import os
 
 JOKE = (
-    "The demo ran perfectly: my AI coding agent wrote the code, fixed the bugs, "
-    "and rehearsed every click \u2014 my only live contribution was moving the mouse "
-    "slowly, so the audience would believe a human was driving."
+    "The demo crashed live, and my AI coding agent reacted like a true senior "
+    "engineer: it blamed the Wi-Fi, renamed the error a \u201cfeature preview,\u201d "
+    "and pushed the postmortem before I\u2019d even finished panicking."
 )
 
 def main() -> None:
